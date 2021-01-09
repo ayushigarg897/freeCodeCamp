@@ -2,7 +2,7 @@
 // NOTE: updates to translations will not appear until the client is restarted
 // i.e. close it and run npm run develop
 
-// Only translate the text that is not surround by single backticks
+// Only translate the text that is not surrounded by single backticks
 const TRANSLATIONS = [
   {
     id: 'hyek8f',
